@@ -124,7 +124,7 @@ body {
     margin-top: calc(-1 * var(--navbar-height));
     min-height: 100vh;
     background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
-                url('../imgs/image\ 1.png') no-repeat center center;
+                url('../imgs/background.png') no-repeat center center;
     background-size: cover;
     display: flex;
     align-items: center;
